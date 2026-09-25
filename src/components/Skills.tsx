@@ -33,7 +33,7 @@ export default function Skills() {
           </h2>
 
           <div className="flex flex-wrap gap-[15px] justify-center items-center mt-[50px]">
-            {skills.map((skill, index) => (
+            {skills.map((skill) => (
               <div 
                 key={skill.name} 
                 className="tech-box inline-flex"

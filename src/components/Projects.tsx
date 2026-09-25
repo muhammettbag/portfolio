@@ -1,4 +1,5 @@
 "use client";
+/* eslint-disable @next/next/no-img-element */
 import { portfolioData } from "@/data/portfolio-info";
 import { motion } from "framer-motion";
 import { Hash } from "lucide-react";
@@ -20,7 +21,7 @@ export default function Projects() {
           </h2>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-[50px]">
-            {portfolioData.projects.map((project, index) => (
+            {portfolioData.projects.map((project) => (
               <Link href={`/project/${project.id}`} key={project.id} className="group">
                 <div className="project-card h-full flex flex-col p-0 border border-transparent rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:border-[#64ffda] hover:shadow-[0_10px_30px_-15px_rgba(2,12,27,0.7)] bg-[#112240]">
                   {/* Kapak Fotoğrafı */}

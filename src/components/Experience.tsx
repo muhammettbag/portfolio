@@ -18,7 +18,7 @@ export default function Experience() {
           </h2>
 
           <div className="timeline mt-[50px]">
-            {portfolioData.experience.map((exp, index) => (
+            {portfolioData.experience.map((exp) => (
               <div key={exp.id} className="timeline-item group">
                 <div className="timeline-dot"></div>
                 <div className="timeline-content">

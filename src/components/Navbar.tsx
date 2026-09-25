@@ -36,7 +36,7 @@ export default function Navbar() {
         {/* Sol Taraf: CV Butonu (Birebir orijinal) */}
         <div className="cv-btn-wrapper">
           <a href={cvUrl} target="_blank" rel="noopener noreferrer" className="cv-btn-inner">
-            <FileText size={18} /> CV'mi Görüntüle
+            <FileText size={18} /> CV&apos;mi Görüntüle
           </a>
         </div>
 
