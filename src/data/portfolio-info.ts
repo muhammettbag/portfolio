@@ -3,7 +3,7 @@ export const portfolioData = {
     name: "Muhammet Bağ",
     role: "Backend Developer",
     description:
-      "Backend geliştirme odaklı .NET teknolojileriyle RESTful API ve backend sistemleri geliştiren bir Bilgisayar Mühendisiyim. Clean Architecture mimarisini ve CQRS pattern'ini benimseyerek POS cihazı entegrasyonu gibi çeşitli backend süreçlerinde görev aldım. Full-stack gelişim hedefiyle React öğreniyor ve kendimi aktif olarak geliştiriyorum.",
+      "Bilgisayar Mühendisliği mezunu bir geliştirici olarak 1 yıllık profesyonel sektör tecrübesine sahibim. Bu süreçte web, mobil ve masaüstü uygulamaların backend geliştirme süreçlerinde görev aldım. RESTful API geliştirme, veritabanı işlemleri, sistem ve cihaz entegrasyonları gibi backend süreçlerinde deneyim kazandım. ERP sistemleri üzerinde teknik destek sağlayarak müşterilerin karşılaştığı problemlerin çözüm süreçlerinde aktif rol aldım. Farklı projelerde edindiğim deneyimleri geliştirerek yeni teknolojiler öğrenmeye devam ediyorum.",
     email: "muhammetbag7@gmail.com",
     github: "https://github.com/muhammetbag",
     linkedin: "https://www.linkedin.com/in/muhammetbag/",
